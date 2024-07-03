@@ -1,7 +1,7 @@
 ## Hi there! I'm German Condori 👋
 
 I'm a Software Engineer and I've worked on IT since 2016.
-I'm currently working at [DevLights](https://devlights.com/en) as Sr Fullstack JS Engineer where my job is focused in developing, deploying and monitoring features in Node and React apps to create products for our clients.
+I'm currently working at [DevLights](https://devlights.com/en) as Sr Fullstack JS Engineer where my job is focused in developing, deploying and monitoring features in Node and React apps to create robust and scalable products for our clients.
 
 
 #### My experience 🧑‍💻
