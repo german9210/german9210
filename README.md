@@ -1,11 +1,13 @@
 ## Hi there! I'm German Condori 👋
 
 I'm a Software Engineer and I've worked on IT since 2016.
-I'm currently working at [MercadoPago](https://www.mercadopago.com.ar/) as Fullstack JS developer where my job is focused in developing, deploying and monitoring features in Node and React apps to improve our product and user experience.
+I'm currently working at [DevLights](https://devlights.com/en) as Sr Fullstack JS Engineer where my job is focused in developing, deploying and monitoring features in Node and React apps to create products for our clients.
 
 
 #### My experience 🧑‍💻
-- Software Development Engineer at *Mercado Libre* (April 2021 - Present) 
+- Sr Software Engineer at *DevLights* (December 2023 - Present)
+
+- Software Development Engineer at *Mercado Libre* (April 2021 - November 2023) 
 
 - Adjunct Assistant Professor at *Digital House* (August 2020 - March 2021)
 
