@@ -17,7 +17,7 @@ Software Engineer with ~10 years in the industry (since 2016). Currently Sr Soft
 
 #### Education 🎓
 - Information Systems Engineering — UTN
-- MSc in Cybersecurity (in progress) — CEUPE
+- MSc in Cybersecurity — CEUPE
 
 #### Languages 💡
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
