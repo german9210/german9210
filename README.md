@@ -12,7 +12,7 @@ Software Engineer with ~10 years in the industry (since 2016). Currently Sr Soft
 - **Jr Software Developer** @ *Consensus Group* — Dec 2016 - Mar 2019
 
 #### Projects 🚀
-- 🎟️ **[rifita.ar](https://rifita.ar)** — Raffle/giveaway platform. Built solo end-to-end with Next.js, Firebase, Vercel and Mercado Pago.
+- 🎟️ **[rifita.ar](https://rifita.ar)** — Raffle/giveaway platform. Built end-to-end with Next.js, Firebase, Vercel and Mercado Pago.
 - 🏥 **[ProFast](https://play.google.com/store/apps/details?id=com.profastmdz.profastapp&hl=es_AR)** — On-demand app connecting users with verified home health & wellness professionals.
 
 #### Education 🎓
