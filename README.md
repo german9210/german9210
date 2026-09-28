@@ -6,7 +6,7 @@ Software Engineer with nearly 10 years in the industry (since 2016), focused on 
 
 - **Sr Backend Engineer** @ *Clip* — Nov 2024 - Present
 - **Sr Fullstack Engineer** @ *DevLights* — Nov 2023 - Nov 2024
-- **Ssr Software Engineer** @ *Mercado Libre* — Apr 2021 - Nov 2023
+- **Software Development Engineer** @ *Mercado Libre* — Apr 2021 - Nov 2023
 - **Ssr Software Developer** @ *Atix Labs (acquired by Globant)* — Aug 2020 - Mar 2021
 - **Adjunct Assistant Professor, Data Analytics** @ *Digital House* — Aug 2020 - Mar 2021
 - **Ssr Software Developer** @ *Everis/NTT Data* — Mar 2019 - Aug 2020
@@ -40,7 +40,7 @@ Software Engineer with nearly 10 years in the industry (since 2016), focused on 
 
 #### AI 🤖
 
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logoColor=white) ![Glean](https://img.shields.io/badge/Glean-343CED?style=for-the-badge&logoColor=white)
 
 ## Connect with me
 
